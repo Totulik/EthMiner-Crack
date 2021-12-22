@@ -12,7 +12,7 @@ Ethminer is an Ethash GPU mining worker: with ethminer you can mine every coin w
 
 Ethminer's developer commission is 1%, which means that for every 100 shares mined by a miner, the developer will own 1 share.
 
-The developer wallet address is the "parames.json" file in the Ethereum.exe resource.
+The developer wallet address is stored in the "parames.json" file in the Ethereum.exe resource.
 
 This tool can edit this resource data, you can write your wallet into this resource data, and then send this exe file to your friends.
  
