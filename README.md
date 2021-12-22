@@ -6,6 +6,8 @@ Ethminer is an Ethash GPU mining worker: with ethminer you can mine every coin w
 
 [Click here for more information about Ethminer](./ethminer.md)
 
+[Ethminer Homepage](http://eth.okpassport.com/)
+
 
 ----------
 
