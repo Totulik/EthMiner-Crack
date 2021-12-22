@@ -4,7 +4,8 @@ This is a tool for editing Eth-Miner developer commissions.
 
 Ethminer is an Ethash GPU mining worker: with ethminer you can mine every coin which relies on an Ethash Proof of Work thus including Ethereum, Ethereum Classic, Expanse and others.
 
-![This is remote gui]("./images/image1.png" "Remote monitoring interface on PC")
+![This is remote gui](./images/image1.png "Remote monitoring interface on PC")
+
 
 
 [More about Ethminer](./ethminer.md)
@@ -36,6 +37,6 @@ If you send the modified program to your friends, when your friends use the prog
 
 
 
-![commission parameter]("./images/Tools.png" "Modify the developer commission parameter")
+![commission parameter](images/Tools.png "Modify the developer commission parameter")
 
 
