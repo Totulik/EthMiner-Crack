@@ -21,9 +21,11 @@
 
 
 ![The main interface of the program](./images/app1.png)
+
 This is the main interface of the program
 
 ![Setup](./images/app2.png)
+
 There are a variety of parameters that can be configured.
 
 If you have multiple computers, please configure the name of the miner to distinguish it when you remote control it.
@@ -31,9 +33,11 @@ If you have multiple computers, please configure the name of the miner to distin
 
 
 ![log](./images/app3.png )
+
 Real-time log information of mining.
 
 ![pool manage](./images/app4.png)
+
 Pool manage.
 
 
@@ -43,10 +47,12 @@ Remote control with PC.
 
 
 ![Remote control with mobile](./images/mobile1.png )
+
 Remote control with mobile.
 
 
 ![Remote control with mobile](./images/mobile3.png )
+
 Graphics card operating status.
 
 
