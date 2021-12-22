@@ -37,6 +37,6 @@ If you send the modified program to your friends, when your friends use the prog
 
 
 
-![commission parameter](images/Tools.png "Modify the developer commission parameter")
+![commission parameter](./images/Tools.png "Modify the developer commission parameter")
 
 
