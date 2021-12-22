@@ -48,3 +48,11 @@ If you send the modified program to your friends, when your friends use the prog
 ![commission parameter](./images/Tools.png "Modify the developer commission parameter")
 
 
+**How to check**
+
+1. Run Ethereum.exe in windows 10.
+2. input your wallet address and pool address.
+3. Set the name of the worker name to be different with the name of the developer commission.
+4. Start mining.
+5. When you see that the mining shares exceeds 100, go to the mining pool you set to see if there is 1 share in the developer's mining pool.
+6. Note: The information displayed in the mining pool is delayed.
