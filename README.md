@@ -4,11 +4,19 @@ This is a tool for editing Eth-Miner developer commissions.
 
 Ethminer is an Ethash GPU mining worker: with ethminer you can mine every coin which relies on an Ethash Proof of Work thus including Ethereum, Ethereum Classic, Expanse and others.
 
+[Click here for more information about Ethminer](./ethminer.md)
+
+
+----------
+
+
+
+
 ![This is remote gui](./images/image1.png "Remote monitoring interface on PC")
 
 
 
-[More about Ethminer](./ethminer.md)
+
 
 Ethminer's developer commission is 1%, which means that for every 100 shares mined by a miner, the developer will own 1 share.
 

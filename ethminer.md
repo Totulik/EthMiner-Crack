@@ -17,7 +17,7 @@
 
 1. If you are in china.
 2. If you often play games and want to mine at the same time.
-3. If you are the owner of an internet cafe. As long as the whitelist is configured, the miner can be started. If your customers come to use computers, the miner will automatically suspend mining.
+3. If you are the owner of an internet cafe. As long as the whitelist is configured, the miner can be started. The miner will automatically suspend mining when your customers come to use computers,
 
 
 ![The main interface of the program](./images/app1.png)
