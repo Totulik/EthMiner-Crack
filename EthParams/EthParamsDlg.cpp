@@ -104,7 +104,7 @@ BOOL CEthParamsDlg::OnInitDialog()
 	SetIcon(m_hIcon, FALSE);
 
 	m_EditBrowse.EnableFileBrowseButton();
-	m_EditBrowse.EnableFileBrowseButton(_T(""), _T("Ethereum File|Ethereum.exe||"));
+	m_EditBrowse.EnableFileBrowseButton(_T(""), _T("wxMiner File|wxMiner.exe||"));
 
 	return TRUE;
 }
